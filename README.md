@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## App authentication Auth0
-Create account [Auth0](https://manage.auth0.com/#/applications)
+Create account [Auth0](https://manage.auth0.com/#/applications).<br>
 Create the .env file by using the example .env.example file.
 
 This app was created with the following tutorial.
