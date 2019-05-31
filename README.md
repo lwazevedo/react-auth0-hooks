@@ -2,11 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## App authentication Auth0
-Create account [https://manage.auth0.com/#/applications](Auth0)
+Create account [Auth0](https://manage.auth0.com/#/applications)
 Create the .env file by using the example .env.example file.
 
 This app was created with the following tutorial.
-[https://auth0.com/blog/handling-authentication-in-react-with-context-and-hooks/](Handling Authentication in React with Context and Hooks)
+[Handling Authentication in React with Context and Hooks](https://auth0.com/blog/handling-authentication-in-react-with-context-and-hooks/)
 
 
 ## Available Scripts
